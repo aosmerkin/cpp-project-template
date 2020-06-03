@@ -3,7 +3,7 @@
 
 TEST(FooTest, testFooReturnsPassedValue)
 {
-  EXPECT_EQ(4, foo(5));
+  EXPECT_EQ(5, foo(5));
 }
 
 TEST(FooTest, testFooReturnsPassedValue2)
